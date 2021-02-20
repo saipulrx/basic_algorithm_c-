@@ -1,2 +1,3 @@
-# basic_algorithm_c-
+basic algorithm C++
+
 Repository source code for course Basic Algorithm using C++ programming
